@@ -1,2 +1,2 @@
 # flaskbook
-gcp에 flask 서비스를 올립니다.
+Google Cloud Platform에 flask 서비스를 올립니다.
